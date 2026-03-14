@@ -55,7 +55,7 @@ Construo APIs escaláveis com **Java (Spring Boot 3)** e **Python (Django/Flask)
 
 ## 🛠️ Stack Técnica
 
-### Back-End & Linguagens
+### Back-End &amp; Linguagens
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&amp;logo=spring-boot&amp;logoColor=white" />
@@ -66,7 +66,7 @@ Construo APIs escaláveis com **Java (Spring Boot 3)** e **Python (Django/Flask)
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&amp;logo=hibernate&amp;logoColor=white" />
 </div>
 
-### Cloud & DevOps
+### Cloud &amp; DevOps
 <div>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" />
@@ -84,7 +84,7 @@ Construo APIs escaláveis com **Java (Spring Boot 3)** e **Python (Django/Flask)
   <img src="https://img.shields.io/badge/H2_Database-003399?style=for-the-badge&amp;logo=h2&amp;logoColor=white" />
 </div>
 
-### Qualidade & Testes
+### Qualidade &amp; Testes
 <div>
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&amp;logo=junit5&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&amp;logo=pytest&amp;logoColor=white" />
@@ -106,7 +106,7 @@ Construo APIs escaláveis com **Java (Spring Boot 3)** e **Python (Django/Flask)
 
 ## 🏗️ Projetos em Destaque
 
-### ☁️ [Sentinel Cloud Optimizer](https://github.com/Matheus26-code/sentinel-cloud-optimizer) — Ecossistema Full-Stack & IaC
+### ☁️ [Sentinel Cloud Optimizer](https://github.com/Matheus26-code/sentinel-cloud-optimizer) — Ecossistema Full-Stack &amp; IaC
 Sistema de monitoramento e otimização cloud com arquitetura distribuída e deploy totalmente automatizado.
 
 - ✅ Infraestrutura completa (VPC, Security Groups, RDS) provisionada via **Terraform** — zero configuração manual
