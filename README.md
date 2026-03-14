@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0f1923,100:0d1117&amp;height=180&amp;section=header&amp;text=Igor%20Matheus%20Braz%20Carvalho&amp;fontSize=36&amp;fontColor=00f5ff&amp;fontAlignY=45&amp;desc=Back-End%20Developer%20%26%20Cloud%20Engineer%20%7C%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20Terraform&amp;descAlignY=68&amp;descColor=8b949e&amp;animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f1923,100:0d1117&height=160&section=header&text=Igor%20Matheus%20Braz%20Carvalho&fontSize=36&fontColor=00f5ff&fontAlignY=55&animation=fadeIn" />
 </div>
 
 <br/>
@@ -169,5 +169,5 @@ Cursando · Agosto/2025 → Janeiro/2028
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0f1923,100:0d1117&amp;height=100&amp;section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f1923,100:0d1117&height=100&section=footer" />
 </div>
