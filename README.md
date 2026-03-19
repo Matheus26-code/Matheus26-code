@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f1923,100:0d1117&height=160&section=header&text=Igor%20Matheus%20Braz%20Carvalho&fontSize=36&fontColor=00f5ff&fontAlignY=55&animation=fadeIn" />
+
+<!-- ██████╗ █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,35:00f5ff,65:ff2d78,100:050810&height=230&section=header&text=Igor%20Matheus&fontSize=62&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=Braz%20Carvalho&descSize=34&descColor=00f5ff&descAlignY=60&descAlign=50&animation=twinkling&stroke=00f5ff&strokeWidth=1" />
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=660&lines=Back-End+Developer+%26+Cloud+Engineer;Java+%E2%80%A2+Spring+Boot+3+%E2%80%A2+Python+%E2%80%A2+AWS;APIs+RESTful+%E2%80%A2+Docker+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;Resili%C3%AAncia+que+vem+da+log%C3%ADstica%2C+aplicada+no+c%C3%B3digo;Buscando+Est%C3%A1gio+%2F+Dev+J%C3%BAnior+%E2%80%94+RS" alt="Typing SVG" />
+
+<br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Matheus26-code&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
 </div>
 
 <br/>
@@ -7,13 +18,13 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-matheus-braz-carvalho-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="mailto:matheusigor1026@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://matheus26-code.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-00f5ff?style=for-the-badge&amp;logo=vercel&amp;logoColor=black" />
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/Matheus26-code" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
@@ -21,7 +32,7 @@
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:ff2d78&height=2" />
 
 ## 👨‍💻 Sobre mim
 
@@ -40,7 +51,7 @@ Construo APIs escaláveis com **Java (Spring Boot 3)** e **Python (Django/Flask)
 
 > 💡 *Busco minha primeira oportunidade como Estagiário ou Desenvolvedor Júnior Back-End / Cloud — disponível para remoto e presencial no RS.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d78,100:00f5ff&height=2" />
 
 ## 🚀 O que faço atualmente
 
@@ -142,12 +153,26 @@ Solução para digitalização de processos manuais do **Instituto Cultural e So
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus26-code&amp;show_icons=true&amp;bg_color=0d1117&amp;title_color=00f5ff&amp;icon_color=00f5ff&amp;text_color=8b949e&amp;border_color=30363d&amp;count_private=true&amp;hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus26-code&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=00f5ff&amp;text_color=8b949e&amp;border_color=30363d&amp;hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus26-code&amp;show_icons=true&amp;bg_color=050810&amp;title_color=00f5ff&amp;icon_color=ff2d78&amp;text_color=8b949e&amp;border_color=00f5ff&amp;count_private=true&amp;hide_border=false&amp;border_radius=4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus26-code&amp;layout=compact&amp;bg_color=050810&amp;title_color=00f5ff&amp;text_color=8b949e&amp;border_color=00f5ff&amp;hide_border=false&amp;border_radius=4" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus26-code&amp;background=0d1117&amp;border=30363d&amp;stroke=00f5ff&amp;ring=00f5ff&amp;fire=ff2d78&amp;currStreakNum=8b949e&amp;sideNums=8b949e&amp;currStreakLabel=00f5ff&amp;sideLabels=8b949e&amp;dates=6b7280" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus26-code&amp;background=050810&amp;border=00f5ff&amp;stroke=00f5ff&amp;ring=00f5ff&amp;fire=ff2d78&amp;currStreakNum=ffffff&amp;sideNums=8b949e&amp;currStreakLabel=00f5ff&amp;sideLabels=8b949e&amp;dates=6b7280&amp;border_radius=4" />
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus26-code&amp;bg_color=050810&amp;color=00f5ff&amp;line=00f5ff&amp;point=ff2d78&amp;area=true&amp;area_color=00f5ff&amp;hide_border=false&amp;border_color=00f5ff&amp;radius=4&amp;custom_title=Contribution%20Graph" />
+</div>
+
+<br/>
+
+<!-- TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Matheus26-code&amp;theme=darkhub&amp;no-frame=false&amp;margin-w=6&amp;column=7&amp;title_color=00f5ff&amp;icon_color=ff2d78" />
 </div>
 
 ---
@@ -169,5 +194,5 @@ Cursando · Agosto/2025 → Janeiro/2028
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f1923,100:0d1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050810,35:ff2d78,65:00f5ff,100:050810&amp;height=130&amp;section=footer" />
 </div>
