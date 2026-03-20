@@ -5,8 +5,6 @@
 <br/>
 
 
-<img src="https://komarev.com/ghpvc/?username=Matheus26-code&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
 
 <br/>
@@ -35,7 +33,7 @@
 Desenvolvedor **Back-End e Cloud Engineer** em transição de carreira com histórico em logística e operações críticas.
 Construo **APIs RESTful** com Java (Spring Boot 3) e Python, provisiono infraestrutura na **AWS com Terraform** e automatizo pipelines com **GitHub Actions**.
 
-> *Busco oportunidade como Desenvolvedor Back-End — disponível remoto e presencial no RS.*
+> *Busco primeira oportunidade como Estagiário ou Dev Júnior Back-End / Cloud — disponível remoto e presencial no RS.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d78,100:00f5ff&height=2" />
 
