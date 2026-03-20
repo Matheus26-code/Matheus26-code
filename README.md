@@ -77,6 +77,8 @@ Construo **APIs RESTful** com Java (Spring Boot 3) e Python, provisiono infraest
 | [**☁️ Sentinel Cloud Optimizer**](https://github.com/Matheus26-code/sentinel-cloud-optimizer) | Ecossistema Full-Stack com IaC, CI/CD completo e monitoramento cloud | `Java` `Spring Boot` `Python` `Terraform` `AWS` `Docker` |
 | [**🐳 Sentinel Ecosystem**](https://github.com/Matheus26-code/sentinel-cloud-optimizer) | Orquestração cloud-native, multi-serviço com proxy reverso | `Docker Compose` `AWS EC2` `Nginx` `Gunicorn` |
 | [**📚 Gestão de Acervo**](https://github.com/Matheus26-code/biblioteca-comunitaria) | App voluntário para digitalizar biblioteca comunitária | `Python` `Flask` `SQLite` `HTML5` |
+| [**🚚 LogiFlow**](https://github.com/Matheus26-code/LogiFlow) | API de orquestração logística com cálculo de frete por cubagem e geolocalização real | `Java` `Spring Boot 3` `PostgreSQL` `Docker` `JUnit 5` `Swagger` |
+| [**📈 IBM Stock Analysis**](https://github.com/Matheus26-code/ibm-stock-analysis) | Pipeline Python com Alpha Vantage — retorno acumulado, volatilidade anualizada e dashboard interativo | `Python` `Plotly.js` `Alpha Vantage API` `Pytest` |
 
 ---
 
