@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://matheus26-code.github.io/header.svg" width="800" height="310" alt="Igor Matheus — Back-End Developer & Cloud Engineer" />
+<img src="https://raw.githubusercontent.com/Matheus26-code/Matheus26-code/main/header.svg" width="800" height="310" alt="Igor Matheus — Back-End Developer & Cloud Engineer" />
 
 <br/>
 
