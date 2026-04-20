@@ -4,12 +4,7 @@
 
 <br/>
 
-
-</div>
-
-<br/>
-
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/igor-matheus-braz-carvalho-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
@@ -17,11 +12,13 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://matheus26-code.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfólio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>&nbsp;
   <a href="https://github.com/Matheus26-code" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
+
 </div>
 
 <br/>
@@ -30,12 +27,16 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor **Back-End e Cloud Engineer** em transição de carreira com histórico em logística e operações críticas.
+Desenvolvedor **Back-End e Cloud Engineer** com background em logística e operações críticas.
 Construo **APIs RESTful** com Java (Spring Boot 3) e Python, provisiono infraestrutura na **AWS com Terraform** e automatizo pipelines com **GitHub Actions**.
 
-> *Busco primeira oportunidade como Estagiário ou Dev Júnior Back-End / Cloud — disponível remoto e presencial no RS.*
+Uso **Spring AI** em projetos reais — integrando LLMs como camada de serviço em arquiteturas distribuídas.
+
+> *Disponível para projetos remotos — freelance ou posição fixa.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d78,100:00f5ff&height=2" />
+
+<br/>
 
 ## 🛠️ Stack Técnica
 
@@ -43,6 +44,7 @@ Construo **APIs RESTful** com Java (Spring Boot 3) e Python, provisiono infraest
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -70,15 +72,27 @@ Construo **APIs RESTful** com Java (Spring Boot 3) e Python, provisiono infraest
 
 ---
 
-## 🏗️ Projetos
+## 🚀 Projetos em Destaque
+
+### 🔴 Em Desenvolvimento
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**☁️ Sentinel Cloud Optimizer**](https://github.com/Matheus26-code/sentinel-cloud-optimizer) | Ecossistema Full-Stack com IaC, CI/CD completo e monitoramento cloud | `Java` `Spring Boot` `Python` `Terraform` `AWS` `Docker` |
-| [**🐳 Sentinel Ecosystem**](https://github.com/Matheus26-code/sentinel-cloud-optimizer) | Orquestração cloud-native, multi-serviço com proxy reverso | `Docker Compose` `AWS EC2` `Nginx` `Gunicorn` |
-| [**📚 Gestão de Acervo**](https://github.com/Matheus26-code/biblioteca-comunitaria) | App voluntário para digitalizar biblioteca comunitária | `Python` `Flask` `SQLite` `HTML5` |
-| [**🚚 LogiFlow**](https://github.com/Matheus26-code/LogiFlow) | API de orquestração logística com cálculo de frete por cubagem e geolocalização real | `Java` `Spring Boot 3` `PostgreSQL` `Docker` `JUnit 5` `Swagger` |
-| [**📈 IBM Stock Analysis**](https://github.com/Matheus26-code/ibm-stock-analysis) | Pipeline Python com Alpha Vantage — retorno acumulado, volatilidade anualizada e dashboard interativo | `Python` `Plotly.js` `Alpha Vantage API` `Pytest` |
+| [**📦 FlowLine**](#) | Sistema de rastreamento logístico interno com Spring AI — rastreia operações em tempo real com camada de IA integrada ao backend | `Java` `Spring Boot 3` `Spring AI` `CI/CD` `Render` |
+
+> ⚠️ *Repositório privado — em produção ativa. Disponível para revisão sob demanda.*
+
+---
+
+### ✅ Projetos Concluídos
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**☁️ Sentinel Cloud Optimizer**](https://github.com/Matheus26-code/sentinel-cloud-optimizer) | Ecossistema Full-Stack com IaC, CI/CD completo e monitoramento de custos AWS | `Java` `Spring Boot` `Python` `Terraform` `AWS` `Docker` |
+| [**🐳 Sentinel Ecosystem**](https://github.com/Matheus26-code/sentinel-cloud-optimizer) | Orquestração cloud-native multi-serviço com proxy reverso e SSL | `Docker Compose` `AWS EC2` `Nginx` `Gunicorn` |
+| [**🚚 LogiFlow**](https://github.com/Matheus26-code/LogiFlow) | API de orquestração logística com cálculo de frete por cubagem e geolocalização rodoviária via OSRM | `Java 21` `Spring Boot 3` `PostgreSQL` `Docker` `JUnit 5` `Swagger` |
+| [**📚 Gestão de Acervo**](https://github.com/Matheus26-code/biblioteca-comunitaria) | Solução voluntária para digitalização de acervo do Instituto Cultural Ágora — autenticação, controle de empréstimos | `Python` `Flask` `SQLite` `HTML5` |
+| [**📈 IBM Stock Analysis**](https://github.com/Matheus26-code/ibm-stock-analysis) | Pipeline Python com Alpha Vantage — volatilidade anualizada, retorno acumulado e dashboard interativo | `Python` `Plotly.js` `Alpha Vantage API` `Pytest` |
 
 ---
 
@@ -110,7 +124,7 @@ Construo **APIs RESTful** com Java (Spring Boot 3) e Python, provisiono infraest
 <div align="center">
 
 <a href="https://matheus26-code.github.io">
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20VER%20PORTF%C3%93LIO%20COMPLETO-00f5ff?style=for-the-badge&logoColor=black" height="40" />
+  <img src="https://img.shields.io/badge/⚡ VER PORTFÓLIO COMPLETO-00f5ff?style=for-the-badge&logoColor=black" height="40" />
 </a>
 
 </div>
@@ -119,7 +133,7 @@ Construo **APIs RESTful** com Java (Spring Boot 3) e Python, provisiono infraest
 
 <div align="center">
   <sub>
-    <code>// Cachoeirinha, RS — Disponível para Remoto e Presencial</code><br/>
+    <code>// Cachoeirinha, RS — Disponível para Remoto</code><br/>
     <code>// A resiliência da logística é o combustível para debugar às 23h.</code>
   </sub>
 </div>
